@@ -1,0 +1,14 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+.env
+venv/
+*.egg-info/
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Outputs (optional: remove this line if you want to commit charts)
+# outputs/
